@@ -1,0 +1,8 @@
+.header {
+    justify-content: flex-end;
+    /* text-align: center; */
+}
+
+.input-search {
+    max-width: 500px;
+}
